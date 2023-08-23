@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7RAHIk/UD52WDQLbdM4/knXswQzDWbk18L7F4b2z79M=",
+  "Source": "LdapAuthAPI",
+  "BasePath": "_content/LdapAuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

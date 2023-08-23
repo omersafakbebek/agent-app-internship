@@ -1,0 +1,150 @@
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.exe
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.deps.json
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.runtimeconfig.json
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.pdb
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/System.DirectoryServices.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/System.DirectoryServices.AccountManagement.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.DirectoryServices.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.DirectoryServices.AccountManagement.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/runtimes/linux/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/runtimes/osx/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.csproj.AssemblyReference.cache
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.AssemblyInfoInputs.cache
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.AssemblyInfo.cs
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.csproj.CoreCompileInputs.cache
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.LdapAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.LdapAuthAPI.props
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.LdapAuthAPI.props
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.LdapAuthAPI.props
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/scopedcss/bundle/LdapAuthAPI.styles.css
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.csproj.CopyComplete
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/refint/LdapAuthAPI.dll
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.pdb
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.genruntimeconfig.cache
+C:/Users/s21402/source/repos/LdapAuthAPI/LdapAuthAPI/obj/Debug/net6.0/ref/LdapAuthAPI.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.exe
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.deps.json
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.runtimeconfig.json
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.pdb
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/System.DirectoryServices.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/System.DirectoryServices.AccountManagement.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.DirectoryServices.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.DirectoryServices.AccountManagement.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/runtimes/linux/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/runtimes/osx/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.DirectoryServices.Protocols.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.csproj.AssemblyReference.cache
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.AssemblyInfoInputs.cache
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.AssemblyInfo.cs
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.csproj.CoreCompileInputs.cache
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.LdapAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.LdapAuthAPI.props
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.LdapAuthAPI.props
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.LdapAuthAPI.props
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/scopedcss/bundle/LdapAuthAPI.styles.css
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.csproj.CopyComplete
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/refint/LdapAuthAPI.dll
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.pdb
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.genruntimeconfig.cache
+C:/Users/s21402/Desktop/Ömer Şafak Bebek (Stajyer)/LdapAuthAPI/obj/Debug/net6.0/ref/LdapAuthAPI.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/appsettings.json
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.deps.json
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.runtimeconfig.json
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/LdapAuthAPI.pdb
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/System.DirectoryServices.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/System.DirectoryServices.AccountManagement.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/System.DirectoryServices.Protocols.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.DirectoryServices.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.DirectoryServices.AccountManagement.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/runtimes/linux/lib/net6.0/System.DirectoryServices.Protocols.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/runtimes/osx/lib/net6.0/System.DirectoryServices.Protocols.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.DirectoryServices.Protocols.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.csproj.AssemblyReference.cache
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.AssemblyInfoInputs.cache
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.AssemblyInfo.cs
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.csproj.CoreCompileInputs.cache
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.LdapAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.LdapAuthAPI.props
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.LdapAuthAPI.props
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.LdapAuthAPI.props
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/scopedcss/bundle/LdapAuthAPI.styles.css
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.csproj.CopyComplete
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/refint/LdapAuthAPI.dll
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.pdb
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/LdapAuthAPI.genruntimeconfig.cache
+/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/obj/Debug/net6.0/ref/LdapAuthAPI.dll

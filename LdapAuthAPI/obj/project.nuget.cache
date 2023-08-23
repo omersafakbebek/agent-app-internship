@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "JD7nM+Z+z3xp5/3P91DQDCM/1sVKoQarsNiRfeZ3HUgNRrr+Kn81VXbITBG135kCqWFxjUpiGRJIrGEiGHpPIA==",
+  "success": true,
+  "projectFilePath": "/Users/omersafakbebek/Downloads/stajyer (safak)/LdapAuthAPI/LdapAuthAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/omersafakbebek/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/system.configuration.configurationmanager/7.0.0/system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/system.directoryservices/7.0.0/system.directoryservices.7.0.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/system.directoryservices.accountmanagement/7.0.0/system.directoryservices.accountmanagement.7.0.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/system.directoryservices.protocols/7.0.0/system.directoryservices.protocols.7.0.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/system.security.cryptography.protecteddata/7.0.0/system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/system.security.permissions/7.0.0/system.security.permissions.7.0.0.nupkg.sha512",
+    "/Users/omersafakbebek/.nuget/packages/system.windows.extensions/7.0.0/system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
