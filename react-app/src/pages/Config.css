@@ -1,0 +1,119 @@
+.page-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .form-container {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    margin-top: 100px;
+    margin-left: 100px;
+  }
+  
+  .form-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .form-row label {
+    width: 150px;
+    margin-right: 10px;
+  }
+  
+  .attribute-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .attribute-row input {
+    margin-right: 10px;
+  }
+  
+  .button-row {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+  }
+  
+  .button-row button {
+    margin-left: 10px;
+  }
+
+  .list-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+    margin-top: 100px;
+    margin-left: 50%;
+    margin-right: 100px;
+    width: min-content;
+  }
+  
+  .item-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .item-list li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .item-list li:hover {
+    background-color: #07192e;
+  }
+  .item-list-scroll {
+    max-height: 400px; 
+    overflow-y: auto;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .item-table {
+    width: 300px;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+  
+  .item-table th,
+  .item-table td {
+    padding: 8px;
+    border: 1px solid #ccc;
+    text-align: left;
+    color: black;
+    background-color: white;
+  }
+  
+  .item-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .item-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .item-table tbody tr:hover {
+    background-color: #e0e0e0;
+  }
+  
+
+  .item-table button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #007bff;
+    text-decoration: underline;
+  }
+  
+  .item-table button:hover {
+    text-decoration: none;
+  }

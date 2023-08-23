@@ -1,0 +1,117 @@
+
+
+
+.task-grid-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .task-search-and-filter {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    padding-left: 15%;
+  }
+  
+  .task-filter-options {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .task-filter-options label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 14px;
+  }
+
+  
+  .task-item-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    padding-right: 15%;
+    padding-left: 15%;
+    position: relative;
+    
+        
+  }
+  
+  .task-item-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: 100%;
+    margin-right: auto;
+    line-height: 20px;
+  }
+  
+  
+  
+  .task-grid-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a324e; 
+    border: 2px solid #1f2c3b; 
+    color: white; 
+    padding: 10px;
+    font-size: 14px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    width: 180px;
+  }
+  
+  .task-grid-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+    cursor: pointer;
+  }
+  
+  .task-status-indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+    margin-left: 15px;
+  }
+  
+  @keyframes blink {
+    0%, 100% {
+      opacity: 0.5;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+  
+  .task-status-indicator.green {
+    background-color: #33cc33;
+    animation: blink 1s infinite;
+  }
+  
+  .task-status-indicator.red {
+    background-color: #ff3333;
+  }
+  .task-status-indicator.yellow {
+    background-color: yellow;
+  }
+  
+  .task-status-indicator.white {
+    background-color: white;
+  }
+  
+  .task-status-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .task-status-container.details {
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+  }
+  

@@ -1,0 +1,18 @@
+.log-button {
+    position: absolute;
+    top: 20px;
+    right: 220px;
+    padding: 8px 16px;
+    background-color: #1a324e; 
+    border: 2px solid #1f2c3b;    
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    width: 95px;
+  }
+  
+  .log-button:hover {
+    background-color: #07192e; 
+}

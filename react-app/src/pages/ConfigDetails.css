@@ -1,0 +1,21 @@
+.config-details-page {
+    padding: 20px;
+  }
+  
+  .config-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+
+  
+  .button-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .button-container button {
+    margin-left: 10px;
+  }
+  
