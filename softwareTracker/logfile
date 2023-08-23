@@ -1,0 +1,78 @@
+2023-08-15 12:47:54.706 +03 [14140] LOG:  starting PostgreSQL 15.3, compiled by Visual C++ build 1914, 64-bit
+2023-08-15 12:47:54.745 +03 [14140] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-08-15 12:47:54.745 +03 [14140] LOG:  listening on IPv6 address "::1", port 5432
+2023-08-15 12:47:56.624 +03 [17512] LOG:  database system was shut down at 2023-08-15 11:21:39 +03
+2023-08-15 12:47:56.969 +03 [14140] LOG:  database system is ready to accept connections
+2023-08-15 12:52:56.473 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 12:53:14.681 +03 [9752] LOG:  checkpoint complete: wrote 147 buffers (0.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=18.073 s, sync=0.087 s, total=18.211 s; sync files=86, longest=0.003 s, average=0.001 s; distance=919 kB, estimate=919 kB
+2023-08-15 13:02:56.738 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 13:03:09.456 +03 [9752] LOG:  checkpoint complete: wrote 122 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=12.576 s, sync=0.099 s, total=12.719 s; sync files=66, longest=0.008 s, average=0.002 s; distance=546 kB, estimate=882 kB
+2023-08-15 13:07:56.488 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 13:08:08.432 +03 [9752] LOG:  checkpoint complete: wrote 103 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=10.847 s, sync=0.436 s, total=11.945 s; sync files=86, longest=0.070 s, average=0.006 s; distance=879 kB, estimate=882 kB
+2023-08-15 13:12:56.462 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 13:13:13.783 +03 [9752] LOG:  checkpoint complete: wrote 130 buffers (0.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=17.142 s, sync=0.139 s, total=17.321 s; sync files=118, longest=0.030 s, average=0.002 s; distance=1266 kB, estimate=1266 kB
+2023-08-15 13:17:56.811 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 13:18:10.813 +03 [9752] LOG:  checkpoint complete: wrote 138 buffers (0.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=13.909 s, sync=0.056 s, total=14.003 s; sync files=69, longest=0.003 s, average=0.001 s; distance=632 kB, estimate=1203 kB
+2023-08-15 13:37:56.931 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 13:38:08.514 +03 [9752] LOG:  checkpoint complete: wrote 111 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.478 s, sync=0.058 s, total=11.583 s; sync files=66, longest=0.003 s, average=0.001 s; distance=495 kB, estimate=1132 kB
+2023-08-15 13:42:56.568 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 13:43:10.046 +03 [9752] LOG:  checkpoint complete: wrote 99 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=13.364 s, sync=0.083 s, total=13.478 s; sync files=64, longest=0.006 s, average=0.002 s; distance=584 kB, estimate=1077 kB
+2023-08-15 13:47:56.086 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 13:48:14.839 +03 [9752] LOG:  checkpoint complete: wrote 142 buffers (0.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=18.341 s, sync=0.168 s, total=18.754 s; sync files=126, longest=0.009 s, average=0.002 s; distance=1394 kB, estimate=1394 kB
+2023-08-15 13:52:56.871 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 13:53:11.596 +03 [9752] LOG:  checkpoint complete: wrote 145 buffers (0.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=14.605 s, sync=0.073 s, total=14.726 s; sync files=90, longest=0.002 s, average=0.001 s; distance=771 kB, estimate=1332 kB
+2023-08-15 14:12:56.694 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 14:13:13.466 +03 [9752] LOG:  checkpoint complete: wrote 162 buffers (1.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=16.559 s, sync=0.144 s, total=16.772 s; sync files=123, longest=0.003 s, average=0.002 s; distance=1347 kB, estimate=1347 kB
+2023-08-15 14:17:56.497 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 14:18:04.879 +03 [9752] LOG:  checkpoint complete: wrote 78 buffers (0.5%); 0 WAL file(s) added, 0 removed, 0 recycled; write=8.312 s, sync=0.049 s, total=8.383 s; sync files=30, longest=0.009 s, average=0.002 s; distance=282 kB, estimate=1240 kB
+2023-08-15 15:12:57.223 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 15:13:11.227 +03 [9752] LOG:  checkpoint complete: wrote 137 buffers (0.8%); 0 WAL file(s) added, 0 removed, 1 recycled; write=13.840 s, sync=0.085 s, total=14.005 s; sync files=89, longest=0.004 s, average=0.001 s; distance=809 kB, estimate=1197 kB
+2023-08-15 15:17:57.261 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 15:18:08.772 +03 [9752] LOG:  checkpoint complete: wrote 106 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.346 s, sync=0.109 s, total=11.511 s; sync files=58, longest=0.008 s, average=0.002 s; distance=519 kB, estimate=1129 kB
+2023-08-15 15:22:57.802 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 15:23:02.585 +03 [9752] LOG:  checkpoint complete: wrote 47 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=4.733 s, sync=0.021 s, total=4.784 s; sync files=14, longest=0.006 s, average=0.002 s; distance=174 kB, estimate=1034 kB
+2023-08-15 15:27:57.612 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 15:28:13.369 +03 [9752] LOG:  checkpoint complete: wrote 153 buffers (0.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=15.598 s, sync=0.106 s, total=15.758 s; sync files=104, longest=0.007 s, average=0.002 s; distance=1133 kB, estimate=1133 kB
+2023-08-15 15:32:57.470 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 15:33:08.189 +03 [9752] LOG:  checkpoint complete: wrote 105 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=10.589 s, sync=0.097 s, total=10.720 s; sync files=63, longest=0.006 s, average=0.002 s; distance=498 kB, estimate=1069 kB
+2023-08-15 15:52:57.538 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 15:53:13.938 +03 [9752] LOG:  checkpoint complete: wrote 158 buffers (1.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=16.156 s, sync=0.135 s, total=16.400 s; sync files=95, longest=0.008 s, average=0.002 s; distance=903 kB, estimate=1053 kB
+2023-08-15 15:57:57.998 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 15:58:10.603 +03 [9752] LOG:  checkpoint complete: wrote 99 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.100 s, sync=0.537 s, total=12.605 s; sync files=70, longest=0.124 s, average=0.008 s; distance=580 kB, estimate=1005 kB
+2023-08-15 16:02:57.658 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 16:03:09.449 +03 [9752] LOG:  checkpoint complete: wrote 107 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.562 s, sync=0.181 s, total=11.791 s; sync files=60, longest=0.020 s, average=0.004 s; distance=505 kB, estimate=955 kB
+2023-08-15 16:12:57.580 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 16:13:11.482 +03 [9752] LOG:  checkpoint complete: wrote 118 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=13.484 s, sync=0.351 s, total=13.903 s; sync files=103, longest=0.022 s, average=0.004 s; distance=912 kB, estimate=951 kB
+2023-08-15 16:17:57.531 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 16:18:06.078 +03 [9752] LOG:  checkpoint complete: wrote 85 buffers (0.5%); 0 WAL file(s) added, 0 removed, 0 recycled; write=8.488 s, sync=0.039 s, total=8.547 s; sync files=39, longest=0.002 s, average=0.001 s; distance=538 kB, estimate=910 kB
+2023-08-15 16:22:57.125 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 16:23:11.911 +03 [9752] LOG:  checkpoint complete: wrote 143 buffers (0.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=14.627 s, sync=0.096 s, total=14.786 s; sync files=85, longest=0.003 s, average=0.002 s; distance=828 kB, estimate=902 kB
+2023-08-15 16:32:58.001 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 16:33:09.294 +03 [9752] LOG:  checkpoint complete: wrote 110 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.142 s, sync=0.111 s, total=11.293 s; sync files=60, longest=0.027 s, average=0.002 s; distance=513 kB, estimate=863 kB
+2023-08-15 16:42:58.397 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 16:43:10.787 +03 [9752] LOG:  checkpoint complete: wrote 121 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=12.276 s, sync=0.086 s, total=12.391 s; sync files=64, longest=0.003 s, average=0.002 s; distance=591 kB, estimate=836 kB
+2023-08-15 16:57:58.923 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 16:58:16.128 +03 [9752] LOG:  checkpoint complete: wrote 167 buffers (1.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=16.947 s, sync=0.166 s, total=17.206 s; sync files=143, longest=0.007 s, average=0.002 s; distance=1617 kB, estimate=1617 kB
+2023-08-15 17:02:58.205 +03 [9752] LOG:  checkpoint starting: time
+2023-08-15 17:03:02.051 +03 [9752] LOG:  checkpoint complete: wrote 35 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=3.728 s, sync=0.091 s, total=3.847 s; sync files=5, longest=0.035 s, average=0.019 s; distance=133 kB, estimate=1468 kB
+2023-08-16 07:53:02.201 +03 [9752] LOG:  checkpoint starting: time
+2023-08-16 07:53:10.720 +03 [9752] LOG:  checkpoint complete: wrote 83 buffers (0.5%); 0 WAL file(s) added, 0 removed, 0 recycled; write=8.426 s, sync=0.054 s, total=8.520 s; sync files=58, longest=0.003 s, average=0.001 s; distance=403 kB, estimate=1362 kB
+2023-08-16 08:03:02.774 +03 [9752] LOG:  checkpoint starting: time
+2023-08-16 08:03:15.287 +03 [9752] LOG:  checkpoint complete: wrote 123 buffers (0.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=12.377 s, sync=0.095 s, total=12.514 s; sync files=64, longest=0.004 s, average=0.002 s; distance=564 kB, estimate=1282 kB
+2023-08-16 08:08:02.316 +03 [9752] LOG:  checkpoint starting: time
+2023-08-16 08:08:15.530 +03 [9752] LOG:  checkpoint complete: wrote 129 buffers (0.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=13.061 s, sync=0.107 s, total=13.215 s; sync files=65, longest=0.009 s, average=0.002 s; distance=606 kB, estimate=1214 kB
+2023-08-16 08:23:02.619 +03 [9752] LOG:  checkpoint starting: time
+2023-08-16 08:23:14.612 +03 [9752] LOG:  checkpoint complete: wrote 118 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.909 s, sync=0.051 s, total=11.994 s; sync files=62, longest=0.002 s, average=0.001 s; distance=600 kB, estimate=1153 kB
+2023-08-16 08:28:02.642 +03 [9752] LOG:  checkpoint starting: time
+2023-08-16 08:28:14.709 +03 [9752] LOG:  checkpoint complete: wrote 119 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.978 s, sync=0.056 s, total=12.067 s; sync files=61, longest=0.002 s, average=0.001 s; distance=553 kB, estimate=1093 kB
+2023-08-16 08:43:02.795 +03 [9752] LOG:  checkpoint starting: time
+2023-08-16 08:43:16.518 +03 [9752] LOG:  checkpoint complete: wrote 134 buffers (0.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=13.581 s, sync=0.094 s, total=13.724 s; sync files=84, longest=0.003 s, average=0.002 s; distance=784 kB, estimate=1062 kB
+2023-08-16 08:48:02.549 +03 [9752] LOG:  checkpoint starting: time
+2023-08-16 08:48:14.386 +03 [9752] LOG:  checkpoint complete: wrote 116 buffers (0.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=11.697 s, sync=0.104 s, total=11.837 s; sync files=61, longest=0.010 s, average=0.002 s; distance=578 kB, estimate=1014 kB
+2023-08-16 09:00:06.421 +03 [14140] LOG:  server process (PID 29596) was terminated by exception 0xC000013A
+2023-08-16 09:00:06.421 +03 [14140] DETAIL:  Failed process was running: SET application_name = 'PostgreSQL JDBC Driver'
+2023-08-16 09:00:06.421 +03 [14140] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2023-08-16 09:00:06.421 +03 [14140] LOG:  terminating any other active server processes
+2023-08-16 09:00:07.744 +03 [14140] LOG:  all server processes terminated; reinitializing
+2023-08-16 09:00:08.532 +03 [29316] LOG:  database system was interrupted; last known up at 2023-08-16 08:48:14 +03
+^C
